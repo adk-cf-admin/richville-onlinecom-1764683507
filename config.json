@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#13262D",
+            "lang-select-color": "#222829",
+            "bg-light": "#0F2027",
+            "welcome-bonus-bg": "#13262D",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0b181e",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#0F2027",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FF7D00",
+            "yellow": "#1EC95D",
+            "yellow-button": "#FF7D00",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#13262D",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#13262D",
+            "faq-label": "#13262D",
+            "bg-footer": "#13262D",
+            "copyright": "#e7e7d5",
+            "starColor": "#1EC95D",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Richville",
+            "title": "Richville Casino | Slots, Live Casino, Bonuses & Secure Withdrawals",
+            "description": "Play at Richville Casino: slots, roulette, blackjack, and live games. Enjoy welcome bonuses, cashback, fast payouts, and crypto support. Security and fair play guaranteed!\n",
+            "canonical": "richville-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/815",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "richville-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/816",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/817"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/818",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Richville Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Richville Casino \u2014 Online Casino with Bonuses and Fast Payouts",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/819",
+            "imageSizeModifier": 10,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/821",
+            "mobileImageSizeModifier": -6,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "Some text before list",
+            "items": [
+                "Wide selection of games and providers.",
+                "Generous bonuses and regular promotions.",
+                "Crypto support and fast withdrawals.",
+                "Mobile-friendly platform without downloads.",
+                "Reliable license and strong data protection.",
+                "Loyalty program with VIP levels.",
+                "24\/7 customer support service available."
+            ],
+            "advantagesAfterText": "Richville Casino ensures a secure and user-friendly experience with thousands of games and attractive bonuses. Fast payouts and crypto support make gaming smooth and convenient.\n",
+            "knowMore": "Know more",
+            "appTitle": "Richville App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/822",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Richville App",
+            "mobileGooglePlayImageTitle": "Richville App",
+            "mobileIosImageTitle": "Richville App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Richville",
+                "description1": "",
+                "items": [
+                    "Bonus up to 300% on deposit.",
+                    "Maximum win up to \u20ac500,000.",
+                    "Cashback up to 20% weekly."
+                ],
+                "description2": "Richville Casino is a modern online gaming platform. It offers a wide range of slots, table games, and live casino options. The website interface is user-friendly for beginners and experienced players. The casino provides regular promotions and bonuses for active users. All transactions are processed quickly and securely using advanced technology. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/823",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The platform supports multiple payment methods, including e-wallets and cryptocurrency. Its mobile version allows seamless play without downloads. Customer support is available 24\/7 to assist with any issues. The casino ensures fair play and strong data protection. It\u2019s an excellent choice for those who value comfort and reliability."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "A World of Gaming Opportunities",
+                "description": "<p>\nRichville Casino is a modern online platform designed for those who value excitement and convenience. It brings together top-quality games from leading providers, ensuring every player finds entertainment to suit their taste. The website features an intuitive interface and simple navigation, making it accessible for both beginners and experienced users.\n\n<\/p>\n<br>\n<p>\nThe casino offers a wide variety of games, from classic slots to live casino experiences with real dealers. Each game boasts high-quality graphics and fair algorithms, guaranteeing transparency and enjoyment. The platform regularly updates its collection with the latest industry hits.\n\n<\/p>\n<br>\n<p>\nSecurity and convenience are top priorities. All transactions are processed through secure channels, and personal data is fully encrypted. Multiple payment options, including e-wallets and cryptocurrency, make deposits and withdrawals fast and hassle-free.\n\n<\/p>\n<br>\n<p>\nRichville Casino rewards its players with bonuses and promotions that enhance the gaming experience. Its loyalty program offers extra benefits and gifts for active users, creating an environment where excitement meets value.\n\n<\/p>\n<br>\n<p>\nThe mobile version allows players to enjoy their favorite games anytime, anywhere. Without the need for downloads, users can access slots and table games directly from their smartphones. Richville Casino combines reliability, innovation, and unforgettable emotions.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at Richville Casino\n<\/h3>\n\n<p>\nRichville Casino offers players a wide range of convenient payment methods to make deposits and withdrawals as smooth as possible. The platform supports traditional bank cards such as Visa and MasterCard, along with popular e-wallets that guarantee fast and secure transactions. For those who prefer innovation, cryptocurrency options are available, including the most in-demand digital assets.\n\n<\/p>\n<br>\n<p>\nSecurity is a top priority for all payments. Every transaction is processed through encrypted channels, ensuring complete confidentiality and protection against unauthorized access. Thanks to advanced technology, payments are quick, and funds are credited without delays.\n\n<\/p>\n<br>\n<p>\nRichville Casino also supports multiple currencies, making the gaming experience comfortable for players worldwide. Users can select their preferred currency during registration to avoid unnecessary fees and conversions. This flexibility ensures convenience for an international audience.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting Richville Casino\n<\/h3>\n\n<p>\nVisiting Richville Casino requires compliance with specific rules that ensure comfort and safety for all players. The main condition is registration on the platform with accurate personal information. Players must be of legal age and located in a region where gambling is permitted by law. All actions on the site should follow principles of fair play and respect for other users.\n\n<\/p>\n<br>\n<p>\nThe casino prohibits the use of third-party software to gain advantages. Creating multiple accounts by one user is also strictly forbidden. Any attempts at fraud or rule violations will result in account suspension. The platform reserves the right to verify player identity to prevent illegal activities.\n\n<\/p>\n<br>\n<p>\nIt is important to remember that gambling should remain entertainment. The casino recommends setting deposit and time limits to avoid addiction. All financial transactions are processed through secure channels, and user data is fully encrypted.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nRegistration with accurate personal details.\n\n<\/li>\n            <li>\u2022 \nLegal age and compliance with laws.\n\n<\/li>\n            <li>\u2022 \nFair play without violations.\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibitions\n<\/h4>\n        <ul>\n            <li>\u2022 \nUse of third-party software.\n\n<\/li>\n            <li>\u2022 \nCreation of multiple accounts.\n\n<\/li>\n       <li>\u2022 \nFraud and deception of administration.\n\n\n<\/li>\n\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Protection at Richville Casino\n<\/h3>\n\n<p>\nRichville Casino operates under an international license issued by a reputable gaming authority. This ensures the legality of its operations and compliance with industry standards. The license confirms that the platform uses certified algorithms and guarantees fair play for every user.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to data protection. All personal information and financial transactions are processed through advanced encryption systems. SSL protocols and other technologies are implemented to prevent unauthorized access to sensitive data. This means your information remains confidential and secure at all times.\n\n<\/p>\n<br>\n<p>\nRichville Casino\u2019s privacy policy is transparent and easy to review. It clearly explains how player data is collected, stored, and used. The platform commits to never sharing personal information with third parties without user consent. All processes comply with international data protection standards.\n\n<\/p>\n<br>\n<p>\nAdditionally, the casino conducts regular security audits and updates its protection systems. This minimizes risks and ensures a reliable gaming environment. Richville Casino strives to provide players with confidence and peace of mind.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRichville Casino Customer Support \u2014 Always Available\n<\/h3>\n\n<p>\nRichville Casino places great emphasis on customer service quality, offering convenient communication channels and prompt assistance. Players can contact support via live chat, email, or phone. All inquiries are handled quickly to resolve any issues related to gaming, payments, or technical matters.\n\n<\/p>\n<br>\n<p>\nResponse time depends on the chosen channel, but live chat provides instant help, while email and phone ensure detailed assistance in the shortest possible time. The service is known for its professionalism and friendly approach to every user. Support is available 24\/7, which is essential for an international audience.\n\n<\/p>\n<br>\n<p>\nAdditionally, Richville Casino offers multilingual support, including English, German, French, and more. This makes communication comfortable for players worldwide. The main goal of customer support is to guarantee safety, convenience, and a positive experience for every client.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication Channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat for instant assistance.\n\n<\/li>\n            <li>\u2022 \nEmail for detailed inquiries.\n\n<\/li>\n            <li>\u2022 \nPhone for urgent issues.\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service Features\n<\/h4>\n        <ul>\n            <li>\u2022 \nFast response time.\n\n<\/li>\n            <li>\u2022 \n24\/7 availability.\n\n<\/li>\n       <li>\u2022 \nMultilingual support.\n\n\n<\/li>\n\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Richville",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRichville Casino Loyalty Program \u2014 More Rewards for Active Players\n<\/h3>\n\n<p>\nThe Richville Casino loyalty program is designed to reward regular players and make gaming even more profitable. It offers exclusive bonuses, cashback, free spins, and access to special promotions. Joining the program unlocks additional opportunities to increase winnings and enjoy premium benefits. The more you play, the higher your level and the greater your rewards.\n\n<\/p>\n<br>\n<p>\nRegistration in the program is automatic after creating an account. Players start at the basic level and gradually move up by meeting simple conditions \u2014 making deposits and playing with real money. Each level unlocks new bonuses, higher limits, and personalized offers.\n\n<\/p>\n<br>\n<p>\nThe program includes several tiers, starting from standard and reaching VIP status. At the highest levels, players receive exclusive gifts, a personal manager, and increased cashback. It\u2019s a perfect way to maximize your gaming experience.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nCreate an account on Richville Casino\n<\/li>\n            <li>\u2022 \nVerify personal details.\n\n<\/li>\n            <li>\u2022 \nPlay with real money.\n\n\n<\/li>\n\n  \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Levels and How to Achieve Them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic Level \u2014 available immediately after registration.\n\n<\/li>\n            <li>\u2022 \nSilver Level \u2014 active play and regular deposits.\n\n<\/li>\n            <li>\u2022 \nGold Level \u2014 higher stakes and participation in promotions.\n\n<\/li>\n           <li>\u2022 \nPlatinum Level \u2014 significant turnover of funds.\n\n<\/li>\n       \n            <li>\u2022 \nVIP Level \u2014 invitation-only for top players.\n\n\n<\/li>\n    \n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Program Bonuses\n<\/h4>\n        <ul>\n            <li>\u2022 \nCashback up to 20% on losses.\n\n<\/li>\n            <li>\u2022 \nFree spins on popular slots.\n\n<\/li>\n       <li>\u2022 \nPersonal deposit bonuses for loyal players.\n\n<\/li>\n            <li>\u2022 \nExclusive promotions for higher tiers.\n\n<\/li>\n             <li>\u2022 \nGifts and VIP privileges (e.g., increased withdrawal limits).\n\n<\/li> \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at Richville Casino\n<\/h3>\n\n<p>\nRichville Casino provides a wide range of bonuses and special offers that make gaming more exciting and rewarding. Beyond the loyalty program, the platform regularly hosts promotions, tournaments, and seasonal events. These offers cater to all types of players \u2014 from beginners to high rollers \u2014 and increase the chances of big wins.\n\n<\/p>\n<br>\n<p>\nEach bonus comes with simple activation conditions, and winnings can reach impressive amounts. The casino offers welcome packages, weekly promotions, tournaments with prize pools, and exclusive deals for active users. Seasonal events add extra thrill and bring additional gifts.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy free spins, deposit bonuses, cashback, and participate in raffles. All offers are available on both desktop and mobile versions. Richville Casino focuses on transparent conditions and fair play, ensuring every user enjoys the experience.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Bonuses and Offers\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus \u2014 up to 300% on first deposit + free spins.\n\n<\/li>\n            <li>\u2022 \nWeekly Cashback \u2014 up to 20% on losses.\n\n<\/li>\n            <li>\u2022 \nTournaments with prizes \u2014 prize pools up to \u20ac50,000.\n\n<\/li>\n            <li>\u2022 \nDeposit Bonuses \u2014 extra funds for top-ups.\n\n<\/li>\n\t    <li>\u2022 \nFree Spins \u2014 on popular slots risk-free.\n\n<\/li>\n\t    <li>\u2022 \nSeasonal Promotions \u2014 holiday raffles and gifts.\n\n<\/li>\n\t    <li>\u2022 \nExclusive Deals \u2014 for active players and high rollers.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Richville Casino \u2014 Top Entertainment for Players\n<\/h3>\n\n<p>\nRichville Casino offers a vast selection of games to satisfy every player\u2019s taste. The platform features classic slots, modern video slots with unique features, table games, and live casino options with real dealers. Each game stands out for its high-quality graphics, fair algorithms, and engaging gameplay.\n\n<\/p>\n<br>\n<p>\nSlots are the highlight of the collection, offering diverse themes from adventure to mythology. Many include progressive jackpots, giving players the chance to win massive prizes. Table games like roulette and blackjack appeal to fans of strategy and tradition. Live casino creates an authentic gaming atmosphere, allowing interaction with dealers in real time.\n\n<\/p>\n<br>\n<p>\nAdditionally, Richville Casino regularly adds new hits from top providers, ensuring players always have fresh experiences. All games are available on both desktop and mobile devices for maximum convenience.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular Games\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBook of Riches \u2014 slot with bonus rounds and free spins.\n\n<\/li>\n            <li>\u2022 \nMega Fortune Wheel \u2014 progressive jackpot with million-dollar potential.\n\n<\/li>\n            <li>\u2022 \nStarburst Galaxy \u2014 vibrant video slot with expanding symbols.\n\n<\/li>\n            <li>\u2022 \nEuropean Roulette \u2014 classic roulette with simple rules.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack Deluxe \u2014 table game for strategy lovers.\n\n<\/li>\n\t    <li>\u2022 \nLive Baccarat \u2014 real dealer experience with casino vibes.\n\n<\/li>\n\t    <li>\u2022 \nCrash X \u2014 fast-paced game with instant wins.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Richville Casino\n<\/h3>\n\n<p> \nRichville Casino offers flexible betting options for players with different budgets. Minimum bets allow beginners to start without risk, while maximum bets provide opportunities for big wins. Limits vary depending on the game type: slots, table games, and live casino have different ranges. This makes the platform suitable for casual players and high rollers alike.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#FF7D00; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac15,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac20,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Richville Casino \u2014 A True Show Experience\n<\/h3>\n\n<p>\nRichville Casino is not just about gambling; it\u2019s a world of entertainment that creates a unique atmosphere for its guests. The platform regularly hosts special events to make players feel part of a vibrant gaming community. These include themed parties, holiday promotions, and online shows that turn gaming into an unforgettable experience.\n\n<\/p>\n<br>\n<p>\nSeasonal events are a major highlight. During holidays, the casino runs exclusive promotions with gifts, raffles, and bonuses. Examples include New Year tournaments with huge prize pools or summer marathons featuring free spins and cashback. These events attract thousands of players and bring a festive vibe to the platform.\n\n<\/p>\n<br>\n<p>\nRichville Casino also offers entertaining online shows featuring professional hosts and real dealers. It\u2019s not just a game\u2014it\u2019s a full-fledged show where players can interact, join contests, and win extra prizes. For competitive players, slot and table game tournaments with big prize pools are available.\n\n<\/p>\n<br>\n<p>\nAll events are accessible on both desktop and mobile devices, allowing players to join from anywhere in the world. Richville Casino ensures every visit feels like a special occasion, not just a gaming session.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntertainment and Events\n<\/h4>\n\n <ul>\n            <li>\u2022 \nOnline themed parties \u2014 festive atmosphere and bonuses.\n\n<\/li>\n            <li>\u2022 \nSeasonal promotions \u2014 holiday raffles and special giveaways.\n\n<\/li>\n            <li>\u2022 \nSlot tournaments \u2014 prize pools up to \u20ac50,000.\n\n<\/li>\n            <li>\u2022 \nTable game competitions \u2014 roulette and blackjack challenges.\n\n<\/li>\n\t    <li>\u2022 \nLive dealer shows \u2014 interactive games and contests.\n\n<\/li>\n\t    <li>\u2022 \nGift raffles \u2014 gadgets, bonuses, and free spins.\n\n<\/li>\n\t    <li>\u2022 \nExclusive marathons \u2014 long-term events for active players.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Richville Casino\n<\/h3>\n\n<p>\nRichville Casino offers convenient and secure withdrawal methods, ensuring players can access their winnings quickly. The platform supports bank cards, e-wallets, and cryptocurrency, providing flexibility for users worldwide. All transactions are processed through encrypted channels, and player data is protected with advanced security technologies.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets and cryptocurrency transactions are the fastest, usually completed within a few hours. Bank transfers may take one to three business days, depending on the bank and region. The casino aims to minimize delays so players can enjoy their winnings without waiting.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits also vary by player status and payment method. The minimum withdrawal amount typically starts at \u20ac20, while maximum limits can reach \u20ac20,000 per month. VIP players benefit from higher limits and faster processing.\n\n<\/p>\n<br>\n<p>\nRichville Casino guarantees transparency and no hidden fees. Identity verification may be required before withdrawals to ensure security and prevent fraud. This is a standard practice that protects players\u2019 interests.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank Cards (Visa, MasterCard) \u2014 up to 3 business days.\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller) \u2014 processed within 24 hours.\n\n<\/li>\n            <li>\u2022 \nCryptocurrency (Bitcoin, Ethereum, Tether) \u2014 near-instant transactions.\n\n\n<\/li>\n   \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Times\n<\/h4>\n\n <ul>\n            <li>\u2022 \nE-wallets: a few hours.\n\n<\/li>\n            <li>\u2022 \nCryptocurrency: almost instant.\n\n<\/li>\n            <li>\u2022 \nBank transfers: 1\u20133 days.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLimits\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum withdrawal: \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum limit: \u20ac20,000 per month.\n\n<\/li>\n            <li>\u2022 \nVIP players: personalized conditions and faster payouts.\n\n\n<\/li>\n  \n        <\/ul><br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How is game fairness ensured?",
+                    "answer": "All games use a certified Random Number Generator (RNG) audited by independent agencies.\n"
+                },
+                {
+                    "title": "Is there protection against gambling addiction?",
+                    "answer": "Yes, the casino offers deposit and time limits, plus self-exclusion options.\n"
+                },
+                {
+                    "title": "How fast are deposits processed?",
+                    "answer": "Deposits are processed instantly regardless of the payment method.\n"
+                },
+                {
+                    "title": "Is there a VIP program?",
+                    "answer": "Yes, active players enjoy exclusive bonuses, a personal manager, and higher withdrawal limits.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/824",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Richville"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
