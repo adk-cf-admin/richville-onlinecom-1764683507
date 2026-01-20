@@ -5,10 +5,10 @@
           <loc>https://richville-online.com</loc>
 
             <xhtml:link rel="alternate" hreflang="x-default" href="https://richville-online.com" />
-            <xhtml:link rel="alternate" hreflang="en-CA" href="https://richville-online.com" />
+            <xhtml:link rel="alternate" hreflang="EN-CA" href="https://richville-online.com" />
 
 
-        <lastmod>2025-12-02T13:51:48.875Z</lastmod>
+        <lastmod>2026-01-20T08:18:53.167Z</lastmod>
         <changefreq>yearly</changefreq>
         <priority>1.0</priority>
       </url>
